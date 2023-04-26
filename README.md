@@ -29,6 +29,9 @@ If you are interested in working with me or have any questions, please feel free
   <a href="https://www.linkedin.com/in/alwaz-shahid/" alt="LinkedIn link to Alwaz profile" title="Alwaz Shahid's Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaz-shahid&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaz-shahid&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alwaz-shahid/alwaz-shahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
