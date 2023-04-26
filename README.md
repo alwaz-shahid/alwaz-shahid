@@ -6,10 +6,10 @@
 
 #### Senior Full-Stack Engineer with Expertise in Python & JavaScript.
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI5Njg2NzgwNTBhNGZkYTAzNTdlYjE5NDA2MjQ0Njg2Mzc5OGM1OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif">
+</a>
 I am an experienced full-stack engineer with expertise in a wide range of technologies, including React, Next.js, FastAPI, Django, and Firebase ETC. I have developed and deployed many applications across various industries, and I am constantly expanding my skillset to stay up-to-date with the latest trends and technologies.
 
 In my previous projects, I have implemented efficient solutions to complex problems, optimized application performance, and collaborated with cross-functional teams to deliver high-quality products. I enjoy working on challenging projects that require creative thinking and problem-solving skills.
