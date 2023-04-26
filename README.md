@@ -19,19 +19,30 @@ In my previous projects, I have implemented efficient solutions to complex probl
 - 💬 Ask me about React/Next js, Api
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Self-taught, plays music, learning something new every day..
+ <br/>
 
+<hr/>
 If you are interested in working with me or have any questions, please feel free to get in touch!
-
+ <br/>
 
 <p align="center">
   <a href="mailto:alwazdev@gmail.com" alt="Alwaz's Gmail" title="Gmail contact">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alwaz-shahid/" alt="LinkedIn link to Alwaz profile" title="Alwaz Shahid's Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+</p> <br/>
+<hr/>
 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+	
+<!--
 ![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaz-shahid&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaz-shahid&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **alwaz-shahid/alwaz-shahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,14 +54,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
 
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <!--
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
