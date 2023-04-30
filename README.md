@@ -12,7 +12,7 @@ In my previous projects, I have implemented efficient solutions to complex probl
 
 - 🔭 I’m currently working on freelance projects.
 - 🌱 I’m currently learning Cyber Security & AI.
-- 💬 Ask me about  system architecture, React/Next.js, API architecture and development, as well as debugging and optimization.
+- 💬 Ask me about  system architecture, React/Next/Astro.js, SPAs/MPAs, Auth Flow, API architecture and development, as well as Advance Configration,debugging and optimization.
 - 📫 How to reach me: LinkedIn [LinkedIn](https://www.linkedin.com/in/alwaz-shahid/)
 - ⚡ Fun fact: Self-taught (16), plays music, learning something new every day..
  <br/>
