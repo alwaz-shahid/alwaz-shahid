@@ -12,11 +12,17 @@ In my previous projects, I have implemented efficient solutions to complex probl
 
 - 🔭 I’m currently working on freelance projects.
 - 🌱 I’m currently learning Cyber Security & AI.
-- 💬 Ask me about  system architecture, React/Next/Astro.js, SPAs/MPAs, Auth Flow, API architecture and development, as well as Advance Configration,debugging and optimization.
+- 💬 Ask me about Reverse engineering, system architecture, React/Next/Astro.js, SPAs/MPAs, Auth Flow, API architecture and development, as well as Configrations ,debugging and optimization.
 - 📫 How to reach me: LinkedIn [LinkedIn](https://www.linkedin.com/in/alwaz-shahid/)
-- ⚡ Fun fact: Self-taught (16), plays music, learning something new every day..
+- ⚡ Fun fact: Self-taught (22), plays guitar, learning something new every day..
  <br/>
-	
+ 
+> ### My skill stack:
+<p align="center">	
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,nodejs,kubernetes,docker,vscode,apollo,bash,aws,azure,figma,git,materialui,babel,html,css,tailwind,cloudflare,nextjs,astro,d3,django,react,emotion,heroku,graphql,github,gatsby,firebase,emotion,redis,prisma,postgres,mongodb,mysql,redux,qt,postman,nginx,netlify,heroku,wordpress,\webpack,vite,vercel,svelte,solidity,svelte,selenium,supabase,sqlite,rollupjs,playwright" />
+  </a>
+</p>
 <hr/>
 <h3 align="center">
 If you are interested in working with me or have any questions, please feel free to get in touch!
@@ -38,12 +44,12 @@ If you are interested in working with me or have any questions, please feel free
 </div>
 <hr/>
 
-> ### Some of my many expertise:
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 	
 <!--
 ![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaz-shahid&show_icons=true&theme=transparent)
