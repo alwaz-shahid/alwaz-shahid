@@ -17,6 +17,8 @@ In my previous projects, I have implemented efficient solutions to complex probl
 - ⚡ Fun fact: Self-taught (22), plays guitar, learning something new every day..
  <br/>
  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwaz-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="alwaz-shahid" /> </p>
+ 
 > ### My skill stack:
 <p align="center">	
   <a href="https://skillicons.dev">
@@ -45,6 +47,9 @@ If you are interested in working with me or have any questions, please feel free
 <hr/>
 
 
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwaz-shahid" alt="alwaz-shahid" /></a> </p>
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
