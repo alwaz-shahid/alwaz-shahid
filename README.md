@@ -6,7 +6,7 @@
 
 #### Senior Full-Stack Engineer with Expertise in Python & JavaScript.
 
-I am an experienced full-stack engineer with expertise in a wide range of technologies, including React, Next.js, FastAPI, Django, and Firebase ETC. I have developed and deployed many applications across various industries, and I am constantly expanding my skillset to stay up-to-date with the latest trends and technologies.
+I am an experienced full-stack engineer with expertise in a wide range of technologies, including Ai/ML, Software applications & Web Dev React, Next.js, FastAPI, Django, and Firebase ETC. I have developed and deployed many applications across various industries, and I am constantly expanding my skillset to stay up-to-date with the latest trends and technologies.
 
 In my previous projects, I have implemented efficient solutions to complex problems, optimized application performance, and collaborated with cross-functional teams to deliver high-quality products. I enjoy working on challenging projects that require creative thinking and problem-solving skills.
 
