@@ -4,13 +4,10 @@
 
 ### Hi there, I'm Alwaz! 👋
 
-#### Senior Full-Stack Engineer with Expertise in Python & JavaScript.
+#### Full Stack Developer and Software Engineer specializing in Web and Tool Development.
 
-I am an experienced full-stack engineer with expertise in a wide range of technologies, including Ai/ML, Software applications & Web Dev React, Next.js, FastAPI, Django, and Firebase ETC. I have developed and deployed many applications across various industries, and I am constantly expanding my skillset to stay up-to-date with the latest trends and technologies.
+You can find web development/application projects, software development, and automation, stay tuned. I am actively working on diverse initiatives, including the development of extensions, CLI tools, and utility tools.
 
-In my previous projects, I have implemented efficient solutions to complex problems, optimized application performance, and collaborated with cross-functional teams to deliver high-quality products. I enjoy working on challenging projects that require creative thinking and problem-solving skills.
-
-- 🔭 I’m currently working on freelance projects.
 - 🌱 I’m currently learning Cyber Security & AI.
 - 💬 Ask me about Reverse engineering, system architecture, React/Next/Astro.js, SPAs/MPAs, Auth Flow, API architecture and development, as well as Configrations ,debugging and optimization.
 - 📫 How to reach me: LinkedIn [LinkedIn](https://www.linkedin.com/in/alwaz-shahid/)
