@@ -1,101 +1,69 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Self+Taught;Full+Stack+Engineer+(L4);Rust+/+MERN+/+JamStack+/+and+much+more;Python,+JavaScript,+TypeScript;Code+Enthusiast;Constantly+Learning+and+Building."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C8BE25&size=24&center=true&vCenter=true&width=600&height=100&lines=Senior+Software+Engineer;Rust+/+Go+/+MERN+/+Distributed+Systems;Forward+Deployed+Engineering;Constantly+Learning+and+Building."></a>
 </p>
 
-### Hi there, I'm Alwaz! 👋
+# Hi there, I'm Alwaz! 👋
 
-#### Full Stack Developer and Software Engineer specializing in Web and Tool Development.
+### Senior Software Engineer & Forward Deployed Engineer 
+Specializing in distributed systems, high-performance backends, multi-tenant SaaS platforms, and intelligent tool development. I bridge the gap between complex business workflows and rock-solid, cloud-native engineering.
 
-You can find web development/application projects, software development, and automation, stay tuned. I am actively working on diverse initiatives, including the development of extensions, CLI tools, and utility tools.
+You can find a mix of robust backend infrastructure, custom CLI/utility tools, automation engines, and modern full-stack applications across my repositories. 
 
-- 🌱 I’m currently learning Cyber Security & AI.
-- 💬 Ask me about Reverse engineering, system architecture, React/Next/Astro.js, SPAs/MPAs, Auth Flow, API architecture and development, as well as Configrations ,debugging and optimization.
-- 📫 How to reach me: LinkedIn [LinkedIn](https://www.linkedin.com/in/alwaz-shahid/)
-- ⚡ Fun fact: Self-taught (22), plays guitar, learning something new every day..
- <br/>
- 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwaz-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="alwaz-shahid" /> </p>
- 
-> ### My skill stack:
-<p align="center">	
+---
+
+### 🚀 What I Do
+- **Systems & Architecture:** Crafting reliable, event-driven architectures, real-time data pipelines, and optimized API gateways.
+- ⚡ **Forward Deployed Strategy:** Working directly with stakeholders to design technical solutions, build enterprise integrations (CRM, logistics), and translate ambiguous requirements into production-ready software.
+- 🌱 **Currently Exploring:** Deepening my expertise in AI Infrastructure, Cyber Security, and Advanced Reverse Engineering.
+- 💬 **Ask me about:** Systems architecture, concurrency models, auth flows, custom CLI tools, performance optimization, and building with **React/Next.js/Astro** or **Rust/Go**.
+
+---
+
+### ⚙️ Core Technologies & Ecosystem
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,nodejs,kubernetes,docker,vscode,apollo,bash,aws,azure,figma,git,materialui,babel,html,css,tailwind,cloudflare,nextjs,astro,d3,django,react,emotion,heroku,graphql,github,gatsby,firebase,emotion,redis,prisma,postgres,mongodb,mysql,redux,qt,postman,nginx,netlify,heroku,wordpress,\webpack,vite,vercel,svelte,solidity,svelte,selenium,supabase,sqlite,rollupjs,playwright" />
+    <img src="https://skillicons.dev/icons?i=go,rust,ts,js,python,cpp,nodejs,react,nextjs,astro,svelte,redux,html,css,tailwind,materialui" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase,prisma,graphql,apollo,django,fastapi,nginx,docker,kubernetes,aws,azure,cloudflare" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,wordpress,babel,webpack,vite,vercel,netlify" />
   </a>
 </p>
-<hr/>
-<h3 align="center">
-If you are interested in working with me or have any questions, please feel free to get in touch!
- </h3>
-	<br/>
+
+* **Backend & Systems:** Go (Gin, Echo, gRPC), Rust (Axum, Tokio), Node.js, NestJS, FastAPI
+* **Frontend & Mobile:** TypeScript, React, Next.js, Astro, Svelte, React Native
+* **Data & Messaging:** PostgreSQL, MongoDB, Redis, RabbitMQ, SQLx
+* **DevOps & Cloud:** Docker, Kubernetes, AWS, Terraform, GitHub Actions, Cloudflare
+
+---
+
+### ⚡ Fun Facts & Analytics
+* 🎸 **Off-duty:** 23 years old, plays guitar, and thrives on learning something entirely outside my comfort zone every single day.
+* 🛠️ **Philosophy:** Focus on the engineering choices that determine long-term scalability—service boundaries, caching, and fault tolerance.
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=alwaz-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="alwaz-shahid" /> 
+</p>
 
 <p align="center">
-  <a href="mailto:alwazdev@gmail.com" alt="Alwaz's Gmail" title="Gmail contact">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwaz-shahid&theme=flat" alt="alwaz-shahid" /></a>
+</p>
+
+---
+
+### 🤝 Let's Connect!
+Whether you want to discuss a complex integration, talk system architecture, or explore full-time/contract engineering opportunities, feel free to reach out.
+
+<p align="center">
+  <a href="mailto:alwazdev@gmail.com" title="Gmail contact">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/alwaz-shahid/" alt="LinkedIn link to Alwaz profile" title="Alwaz Shahid's Linkedin">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alwaz-shahid/" title="Alwaz Shahid's LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p> 
 
 <br/>
 
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI5Njg2NzgwNTBhNGZkYTAzNTdlYjE5NDA2MjQ0Njg2Mzc5OGM1OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="450" height="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI5Njg2NzgwNTBhNGZkYTAzNTdlYjE5NDA2MjQ0Njg2Mzc5OGM1OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="450" height="400" style="border-radius: 8px;" />
 </div>
-<hr/>
-
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwaz-shahid" alt="alwaz-shahid" /></a> </p>
-<!-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
-	
-<!--
-![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaz-shahid&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaz-shahid&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-**alwaz-shahid/alwaz-shahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on freelance projects.
-- 🌱 I’m currently learning Cyber Security & AI.
-- 💬 Ask me about React/Next js, Api
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
-
-<!--
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
-
-https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
-	https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
-	![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
-
-[(https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
--->
